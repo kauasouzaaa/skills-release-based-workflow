@@ -106,36 +106,6 @@ section {
   display: block;
 }
 body {
-  /* Add background-color declaration here */
-}
-ol,
-ul {
-  list-style: none;
-}
-blockquote,
-q {
-  quotes: none;
-}
-blockquote:before,
-blockquote:after,
-q:before,
-q:after {
-  content: "";
-  content: none;
-}
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-/* Center the container */
-#container {
-  padding-top: 50px;
-  margin: 0 auto;
-  width: 480px;
-}
-
-/* Give canvas a background */
-canvas {
   background-color: black;
 }
+  
